@@ -1,0 +1,12 @@
+设置
+git config --global user.email "chendeying2016@163.com"
+git config --global user.name "hotknife"
+查看状态
+git status
+添加
+git add 文件名加后缀
+设置保存
+git commit -m '文件名'
+
+
+
