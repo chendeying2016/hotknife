@@ -1,3 +1,5 @@
+首先初始化，建立新的git仓库
+git init
 设置
 git config --global user.email "chendeying2016@163.com"
 git config --global user.name "hotknife"
