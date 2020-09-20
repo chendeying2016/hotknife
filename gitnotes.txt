@@ -7,6 +7,7 @@ git status
 git add 文件名加后缀
 设置保存
 git commit -m '文件名'
-
-
-
+查看log
+git log
+回溯版本
+git reset --hard HEAD^
